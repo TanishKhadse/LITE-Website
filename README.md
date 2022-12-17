@@ -11,3 +11,7 @@ Technologies included: Intersection Observer API, tilt.js library (https://micku
 Site research done using stackoverflow.com
 
 Copyright Compliance: Pitch Deck slides provided by Slide Carnival formsubmit.co utilized as 3rd party form service Fonts and symbols provided by Google Fonts and FontAwesome. WCIA video: verbal agreement with WCIA organization Champaign, IL (https://www.wcia.com/news/17-year-old-ceo/). Lastly, inspiration for animations and code structure came from YouTube channels DevEd and Kevin Powell.
+
+
+Other notes:
+Website recieved 2nd prize at regional FBLA conference, 2nd prize at state FBLA conference, and qualified for the national FBLA conference. 
